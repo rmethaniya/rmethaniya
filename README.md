@@ -7,13 +7,11 @@ From sports applications to healthcare platforms, I help forward-thinking compan
 Have a project that could use this approach? Let's connect and turn your vision into reality.
 
 ### 💬 Let's Chat
-<a href="mailto:ravi.patel9637@gmail.com" target="_blank">
+- <a href="mailto:ravi.patel9637@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-ravi.patel9637%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/ravindra-methaniya-05557382/" target="_blank">
+- <a href="https://www.linkedin.com/in/ravindra-methaniya-05557382/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ravindra%20Methaniya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-[![Email](https://img.shields.io/badge/Email-ravi.patel9637%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi.patel9637@gmail.com)
 
