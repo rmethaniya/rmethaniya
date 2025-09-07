@@ -15,3 +15,5 @@ Have a project that could use this approach? Let's connect and turn your vision 
   <img src="https://img.shields.io/badge/LinkedIn-Ravindra%20Methaniya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+[![Email](https://img.shields.io/badge/Email-ravi.patel9637%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi.patel9637@gmail.com)
+
